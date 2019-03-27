@@ -1,0 +1,5 @@
+name: Form Data Display Block
+type: module
+description: Defines a custom block to display the data inserted using custom form.
+core: 8.x
+package: Bootcamp

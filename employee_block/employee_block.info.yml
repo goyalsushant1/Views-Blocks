@@ -1,0 +1,7 @@
+name: Employee Block
+type: module
+description: Defines a custom block.
+core: 8.x
+package: Bootcamp
+dependencies:
+  - block
